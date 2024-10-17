@@ -1,0 +1,10 @@
+torch==1.13.0
+numpy==1.21.0
+librosa==0.8.1
+scipy==1.5.0
+tensorboard==2.4.0
+soundfile==0.10.3.post1
+matplotlib==3.3.0
+pesq==0.0.3
+auraloss<0.4
+tqdm==4.41.0
